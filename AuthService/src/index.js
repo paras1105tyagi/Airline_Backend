@@ -46,22 +46,7 @@ const prepareAndStartServer = () => {
 
 
 
-  //  const service = new UserService();
-  //  const newTOken = service.createToken({email:'aasthatyagi@gmai.com', id:1});
-  //  console.log(newTOken);
-
-  // const token='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhc3RoYXR5YWdpQGdtYWkuY29tIiwiaWQiOjEsImlhdCI6MTc0NTQ0MTU3NywiZXhwjoxNzQ1NDQ1MTc3fQ.hiu9xNCz57asbWAhn-HC9zWnPMhgxKJyNtsu3FmF0lw';
-  // const response = service.verifyToken(token);
-  // console.log(response);
-    // const repo = new UserRepository();
-
-    // const response = await repo.getById(1);
-    // console.log(response);
-    // const incommingpassword = '12345';
-    // const user =   await User.findByPk(5);
-    // const response = bcrypt.compareSync(incommingpassword,user.password);
-
-    // console.log(response);
+ 
   });
 
 
